@@ -1,6 +1,6 @@
 def greet_characters(array)
   array.each do |string_el|
-    
+    puts "#{string_el} who am I?"
 end
 
 def list_dwarves(array)
